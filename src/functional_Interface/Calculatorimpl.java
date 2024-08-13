@@ -1,4 +1,4 @@
-package lambda;
+package functional_Interface;
 
 
 interface Calculator {

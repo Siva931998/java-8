@@ -1,6 +1,4 @@
-package lambda;
-
-import com.sun.xml.internal.ws.api.streaming.XMLStreamReaderFactory;
+package functional_Interface;
 
 @FunctionalInterface
 public interface FunctionalInterfaceClass {

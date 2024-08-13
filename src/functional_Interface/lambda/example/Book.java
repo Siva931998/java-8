@@ -1,4 +1,4 @@
-package lambda.example;
+package functional_Interface.lambda.example;
 
 public class Book {
     private int id;

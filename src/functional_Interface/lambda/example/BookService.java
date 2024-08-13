@@ -1,8 +1,6 @@
-package lambda.example;
+package functional_Interface.lambda.example;
 
-import java.util.Collection;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class BookService {
