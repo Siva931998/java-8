@@ -1,0 +1,8 @@
+S.No      Name    Score     Age
+101       siva      90      26
+102       bala      70      22
+103       guru      60      23
+104       ram       50      25
+105       ravi      80      26
+                Total Student = 5
+
